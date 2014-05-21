@@ -1,0 +1,11 @@
+# Site settings
+title: Wonder Hunters
+email: ""
+description: "Follow our family as we work to discover wonder in our everyday."
+baseurl: ""
+url: "http://wonderhunters.com"
+username: jenniferhunter
+
+# Build settings
+markdown: kramdown
+permalink: pretty
