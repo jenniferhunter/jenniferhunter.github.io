@@ -6,6 +6,8 @@ baseurl: ""
 url: "http://wonderhunters.com"
 username: jenniferhunter
 
-# Build settings
+
+  # Build settings
 markdown: kramdown
 permalink: pretty
+
