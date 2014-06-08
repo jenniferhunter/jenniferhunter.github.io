@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wonderschooling!"
-date:   2014-06-09 7:00:00
+date:   2014-06-07 22:47:12
 categories: homeschooling
 author: Mama
 ---
