@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Wonderschooling Defined"
+date:   2014-06-08 21:35:43
+categories: homeschooling
+author: Mama
+---
+
+After defining the outcome I wanted, of raising people who seek and experience wonder, I began to look to what this would mean everyday.  First was the realization that it would look different in different seasons of life.  For example, Sprout is five months old now and for the first five months has spent most of his time in arms, consuming a lot of attention and resources.  I’m a tired mama of three and so exciting projects have fallen by the wayside.  Sometimes this makes me sad or frustrated, or makes me feel as though I’m “not doing anything.”  However, there are these magical moments when all three kids lie on the floor, Peanut and Pico doting on their brother, and something clicks.  I understand that we are wonderschooling in these days.  That when there is an infant around, the older children are learning volumes about wonder - who doesn’t delight in a baby?  They are learning how to nurture a baby, they are learning patience, they are learning the magic that is watching someone grow and come into themselves.  I’m learning it too - watching all three of them.  
+
+This looks like unschooling to be sure.  Unschooling appeals to me - fully interest led learning.  Then again, there are some books, topics, resources that make me excited and I can’t help but share them with my kids!  There are others that are best learned methodically - a musical instrument or a foreign language, perhaps.  There are even some subjects my children need to learn, whether or not they are interested.  For each learner these may be different.  So, while we are not fully planning on unschooling, our use of different methods and resources will always be mindful of keeping wonder alive.  Peanut actually loves math workbooks.  I tend to associate math worksheets with the tedium of busywork at school, but on watching Peanut work through math questions I see excitement and wonder as he figures out the rules of math.  So this is working for us, for now.
+
+Wonderschooling also encompasses a lot of time in the wider world.  We try to spend as much time as possible outdoors, as we all feel better and see more outside.  The kids seem to learn so much more effectively after a day watching anthills and finding shapes in the clouds.  The learning seems to happen without effort.  I delight in watching my kids run, climb and play.  Our family loves camping.  We hope to be able to do some travelling as the kids get older.
+
+Another key aspect of wonderschooling is making it into whole family learning.  Projects that can be completed together are best.  Including children in cooking, gardening, and other tasks helps us all grow.  I love learning and it is exciting for me to see how many topics my children have discovered that are new and interesting to me.  We learn from each other, and from extended family and friends.  The wonder of the world is for everybody, and knowledge cannot simply be passed from older teacher to younger student.  
+
+Wonderschooling will continue to develop as we homeschool through different ages and stages.  It feels exciting to have a purpose to our days and I look forward to discovering wonder with my children.
