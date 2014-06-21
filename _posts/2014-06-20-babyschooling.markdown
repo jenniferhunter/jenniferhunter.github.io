@@ -10,9 +10,9 @@ The top concern that people raise when they learn that we are homeschooling is t
 
 Common questions include:
 <ul> 
-<li> _"Does the school board provide curriculum?"_
-<li> _"How do you know what to teach?"_
-<li> _"Where do you buy curriculum?"_
+<li> "Does the school board provide curriculum?"
+<li> "How do you know what to teach?"
+<li> "Where do you buy curriculum?"
 </ul>
 
 My answer at this point has been that _we don't follow a curriculum_.
@@ -29,11 +29,14 @@ Sprout doesn't nap alone, so his naps are on the go and often shortened by me tr
 There has certainly not been any fixed curriculum we're following - no checklists to show our progress in meeting learning goals.
 
 What has Peanut learned in this period?
-He's learned that breastfeeding babies who are fed on demand will _nurse a lot_.
-He's learned that it's perfectly okay to cuddle a baby while he sleeps and that _babies don't need to sleep through the night by some arbitrary age_.
-He's learned that mama works hard taking care of the baby and _sometimes_ needs to sit and rest (he has even learned to bring her a drink of water!).  
-He's learned that dirty dishes and messy floors are okay, because _baby is more important than a clean house_.  
-He's learned that slings and baby carriers are wonderful, since Mama and Daddy can play with him or take him to the park while _holding_ the baby.  
+He's learned that:
+<ul>
+<li>breastfeeding babies who are fed on demand will _nurse a lot_.
+<li>it's perfectly okay to cuddle a baby while he sleeps and that _babies don't need to sleep through the night by some arbitrary age_.
+<li>mama works hard taking care of the baby and _sometimes_ needs to sit and rest (he has even learned to bring her a drink of water!).  
+<li>dirty dishes and messy floors are okay, because _baby is more important than a clean house_.  
+<li>slings and baby carriers are wonderful, since Mama and Daddy can play with him or take him to the park while _holding_ the baby.  
+</ul>
 
 I'm thinking of this time as _Babyschooling_.  I like to imagine Peanut one day as my grown son, becoming a father himself.  I hope that he'll naturally become the parent he's seen growing up - a patient, present father who puts his relationship with his child as a priority.  If he never does become a father, I still believe that the lessons he's learned in watching us care for his brother will extend to help him in all his relationships.  When I think of this, I recognize that babyschooling has given him so much more than any curriculum could.  
 
