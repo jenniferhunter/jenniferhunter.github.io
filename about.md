@@ -6,12 +6,17 @@ permalink: /about/
 
 Meet our family!
 
+We are the Wonder Hunters.  A family of five living, exploring, learning, and playing in Waterloo, Ontario.
+
+We are excited to have you follow along with our family’s endeavor to live a life of excitement and wonder!
+
+
 ***
 
 ### Mama
-The hippie homeschool teacher - constantly realigning our family to our evolving goals.
-
-Mama is the main writer for this site.
+> The hippie homeschool teacher - constantly realigning our family to our evolving goals.
+> 
+> Mama is the main writer for this site.
 
 ***
 
