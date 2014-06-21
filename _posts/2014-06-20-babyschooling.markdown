@@ -9,9 +9,9 @@ author: Mama
 The top concern that people raise when they learn that we are homeschooling is that of curriculum.  
 
 Common questions include:
-* _"Does the school board provide curriculum?"_
-* _"How do you know what to teach?"_
-* _"Where do you buy curriculum?"_
+- _"Does the school board provide curriculum?"_
+- _"How do you know what to teach?"_
+- _"Where do you buy curriculum?"_
 
 My answer at this point has been that **we don't follow a curriculum**.
 
