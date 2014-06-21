@@ -8,6 +8,6 @@ username: jenniferhunter
 
 
   # Build settings
-markdown: kramdown
+markdown: rdiscount
 permalink: pretty
 
