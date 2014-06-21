@@ -31,11 +31,11 @@ There has certainly not been any fixed curriculum we're following - no checklist
 What has Peanut learned in this period?
 He's learned that:
 <ul>
-<li>breastfeeding babies who are fed on demand will _nurse a lot_.
-<li>it's perfectly okay to cuddle a baby while he sleeps and that _babies don't need to sleep through the night by some arbitrary age_.
-<li>mama works hard taking care of the baby and _sometimes_ needs to sit and rest (he has even learned to bring her a drink of water!).  
-<li>dirty dishes and messy floors are okay, because _baby is more important than a clean house_.  
-<li>slings and baby carriers are wonderful, since Mama and Daddy can play with him or take him to the park while _holding_ the baby.  
+<li>breastfeeding babies who are fed on demand will <i>nurse a lot</i>.
+<li>it's perfectly okay to cuddle a baby while he sleeps and that <i>babies don't need to sleep through the night by some arbitrary age</i>.
+<li>mama works hard taking care of the baby and <i>sometimes</i> needs to sit and rest (he has even learned to bring her a drink of water!).  
+<li>dirty dishes and messy floors are okay, because <i>baby is more important than a clean house</i>.  
+<li>slings and baby carriers are wonderful, since Mama and Daddy can play with him or take him to the park while <i>holding</i> the baby.  
 </ul>
 
 I'm thinking of this time as _Babyschooling_.  I like to imagine Peanut one day as my grown son, becoming a father himself.  I hope that he'll naturally become the parent he's seen growing up - a patient, present father who puts his relationship with his child as a priority.  If he never does become a father, I still believe that the lessons he's learned in watching us care for his brother will extend to help him in all his relationships.  When I think of this, I recognize that babyschooling has given him so much more than any curriculum could.  
